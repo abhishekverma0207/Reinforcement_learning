@@ -13,9 +13,9 @@ Syntax highlighted code block
 
 ### Important links 
 
-[https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/](Simple Beginner’s guide to Reinforcement Learning & its implementation)
+[Simple Beginner’s guide to Reinforcement Learning & its implementation](https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/)
 
-[https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419](An introduction to Reinforcement Learning)
+[An introduction to Reinforcement Learning ](https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419)
 
 
 - Bulleted
