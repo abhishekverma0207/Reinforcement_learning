@@ -6,16 +6,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 # Reinforcemnt Learning
 
-_This git page has been made for the sole purpose of lrarning REINFORCEMENT LEARNING_
+_This git page has been made for the sole purpose of learning REINFORCEMENT LEARNING_
 
 ```markdown
 Syntax highlighted code block
 
 ### Important links 
 
-[Simple Beginner’s guide to Reinforcement Learning & its implementation](https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/)
+[Simple Beginner’s guide to Reinforcement Learning & its implementation](https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/).
 
-[An introduction to Reinforcement Learning ](https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419)
+[An introduction to Reinforcement Learning ](https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419).
 
 
 - Bulleted
