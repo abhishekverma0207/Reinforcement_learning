@@ -4,16 +4,19 @@ You can use the [editor on GitHub](https://github.com/abhishekverma0207/Reinforc
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Reinforcemnt Learning
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+_This git page has been made for the sole purpose of lrarning REINFORCEMENT LEARNING_
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Important links 
+
+[https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/](Simple Beginner’s guide to Reinforcement Learning & its implementation)
+
+[https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419](An introduction to Reinforcement Learning)
+
 
 - Bulleted
 - List
